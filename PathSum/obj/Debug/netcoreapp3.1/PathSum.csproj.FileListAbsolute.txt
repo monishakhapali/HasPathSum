@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\PathSum\PathSum\bin\Debug\netcoreapp3.1\PathSum.exe
+C:\Users\monisha.khapali\source\repos\PathSum\PathSum\bin\Debug\netcoreapp3.1\PathSum.deps.json
+C:\Users\monisha.khapali\source\repos\PathSum\PathSum\bin\Debug\netcoreapp3.1\PathSum.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\PathSum\PathSum\bin\Debug\netcoreapp3.1\PathSum.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\PathSum\PathSum\bin\Debug\netcoreapp3.1\PathSum.dll
+C:\Users\monisha.khapali\source\repos\PathSum\PathSum\bin\Debug\netcoreapp3.1\PathSum.pdb
+C:\Users\monisha.khapali\source\repos\PathSum\PathSum\obj\Debug\netcoreapp3.1\PathSum.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\PathSum\PathSum\obj\Debug\netcoreapp3.1\PathSum.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\PathSum\PathSum\obj\Debug\netcoreapp3.1\PathSum.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\PathSum\PathSum\obj\Debug\netcoreapp3.1\PathSum.dll
+C:\Users\monisha.khapali\source\repos\PathSum\PathSum\obj\Debug\netcoreapp3.1\PathSum.pdb
+C:\Users\monisha.khapali\source\repos\PathSum\PathSum\obj\Debug\netcoreapp3.1\PathSum.genruntimeconfig.cache
+C:\Users\monisha.khapali\source\repos\PathSum\PathSum\obj\Debug\netcoreapp3.1\PathSum.csprojAssemblyReference.cache
